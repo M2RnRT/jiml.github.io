@@ -83,7 +83,7 @@ img {
   background-repeat: no-repeat;
 }
 #home {
-  background-image: url(../images/top_img.jpg);
+  background-image: url(top_img.jpg);
   min-height: 100vh;
   background-color: white;
   background-blend-mode:hard-light;
